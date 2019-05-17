@@ -71,10 +71,11 @@ Take the quiz below to make sure you're familiar with the crucial git commands a
 
 ?: How do you submit a solution to Learn?
 
-( )`git submit`
-( )`git pull-request`
-(X)By creating a Pull Request through the GitHub interface
-( )`git commit -am "Done with Lab"`
+[ ]`git submit`
+[ ]`git pull-request`
+[X]By creating a Pull Request through the GitHub interface
+[X]`learn Submit`
+[ ]`git commit -am "Done with Lab"`
 
 ?: What comes first, staging with `git add .` or committing with `git commit`?
 
